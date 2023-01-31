@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Oswald:wght@300;400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+}
+header{
+    padding: 30px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+nav a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin-left: 13px;
+    
+}
+
+ a button{
+    border-radius: 20px;
+    padding: 5px 12px;
+    background: rgb(255, 0, 242);
+    color: rgb(253, 253, 253);
+    border: none;
+}
+
+.imagen{
+    max-height: 100px;
+    max-width: 100px;
+    border-radius: 50px;
+    margin-top: 50px;
+    
+}
+
+p{
+    margin-top: 30px;
+}
+
+.a button{
+    margin-top: 30px;
+    
+}
+
+h2{
+    margin-top: 30px;
+    position: relative;
+    text-align: center;
+}
+
+.aaa {
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 219);
+    margin-top: 50px;
+    border: rgb(0, 0, 255) 2px solid;
+    border-radius: 5px;
+
+}
+
+div  button .h{
+    border: 10px black solid;
+    margin-top: 10px;
+}
+
+section .borde{
+    height: 2px;
+    width: 800px;
+    background-color: rgba(211, 211, 211, 0.808);
+    margin-top: 60px;
+    margin-bottom: 2.5em;
+
+}
+
+section div.borde{
+    position:relative;
+    left: 270px;
+} 
+
+div h3{
+    display: flex;
+    justify-content: space-between;
+}
+
+div {
+    text-align: center;
+    position: relative;
+    left: 270px;
+
+    width: 800px;
+}
+
+
+
+article section{
+    text-align: center;
+}
+
+div .contacto{
+    text-align: center;
+}
+
+#viewAlerta {
+ background-color: rgba(255, 255, 255, 0.998);
+ border-radius: 5px;
+ padding: 10px 12px;
+ color: rgb(11, 11, 255);
+ border-color: rgb(4, 4, 249);
+}
+
+
